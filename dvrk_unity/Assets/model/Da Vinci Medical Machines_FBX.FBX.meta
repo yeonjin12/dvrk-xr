@@ -3,12 +3,67 @@ guid: 247b0d26181dfe64782f744e08712008
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminium
+    second: {fileID: 2100000, guid: 5ee2a9b6907b7054b89fffff66e704b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Plastic
+    second: {fileID: 2100000, guid: 3f5165188aaf0ee4cb06eae9102379de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue color
+    second: {fileID: 2100000, guid: de9083bc64c85f14eaa7094c5c252680, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Display
+    second: {fileID: 2100000, guid: e059ac7bd072e1c49bdf85ef6b53441a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Display 2
+    second: {fileID: 2100000, guid: a9db62ee2dba1e54b9531af9a46d4910, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Label
+    second: {fileID: 2100000, guid: 14d9ee277aef60d41b9e8cafca346618, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main MTL 01
+    second: {fileID: 2100000, guid: 7d3823fabdded8c4bb5f46a76f34c0eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main MTL 02
+    second: {fileID: 2100000, guid: 3f3e3c64ac794e8479a109a93897bc8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main MTL 03
+    second: {fileID: 2100000, guid: 732bae0beba494f44aa9f147140931d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Slate
+    second: {fileID: 2100000, guid: 25cc707debae7ca4a8ac188bdada46a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Metal Bse 2
+    second: {fileID: 2100000, guid: 4b0c5f8714679ca4e9adb9ddd04cef57, type: 2}
   materials:
     materialImportMode: 2
-    materialName: 0
+    materialName: 1
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
